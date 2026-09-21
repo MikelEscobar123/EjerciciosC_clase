@@ -1,0 +1,7 @@
+Orense 22.3
+Lugo 23.5
+Santander 8
+Madrid 22
+Bilbao 4
+Soria 2
+Sevilla 45.5

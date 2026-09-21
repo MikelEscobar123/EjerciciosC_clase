@@ -1,0 +1,4 @@
+Pedro 19 4
+Juan 21 3
+Laura 23 3
+Janire 23 6
